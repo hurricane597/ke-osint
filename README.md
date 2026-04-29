@@ -2,7 +2,7 @@
 
 > Passive recon tool scoped for Kenyan targets: `.ke` domains, local phone numbers, and regional social presence.
 
-**Author:** Sey Wayhive Achieng  
+**Author:** hurricane597  
 **Built for:** Authorized penetration testing, security assessments, and portfolio demonstration  
 **Stack:** Python 3.8+, rich, dnspython, python-whois, requests
 
@@ -10,7 +10,7 @@
 
 ## Legal Disclaimer
 
-This tool performs **passive, non-intrusive** reconnaissance only — no exploitation, no active probing beyond standard HTTP requests, no authentication bypass. You are solely responsible for ensuring you have authorization to investigate any target. Unauthorized OSINT activity may violate the Kenya Computer Misuse and Cybercrimes Act (2018) and other applicable laws.
+This tool performs **passive, non-intrusive** reconnaissance only, there is no exploitation, active probing beyond standard HTTP requests and authentication bypass. You are solely responsible for ensuring you have authorization to investigate any target. Unauthorized OSINT activity may violate the Kenya Computer Misuse and Cybercrimes Act (2018) and other applicable laws.
 
 ---
 
