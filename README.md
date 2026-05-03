@@ -1,4 +1,4 @@
-# ke-osint — Kenyan Entity OSINT Aggregator
+Entity OSINT Aggregator
 
 > Passive recon tool scoped for Kenyan targets: `.ke` domains, local phone numbers, and regional social presence.
 
