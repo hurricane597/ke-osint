@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 ke-osint — Kenyan Entity OSINT Aggregator
-Author: Sey Wayhive Achieng
+Author: hurricane597
 Usage: python main.py --target <domain|email|phone|username> --type <domain|phone|social|email>
 """
 
